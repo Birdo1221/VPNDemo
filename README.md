@@ -33,7 +33,7 @@ Install Composer if not already installed: Get Composer.
 Install dependencies:
 
 ```bash
-composer install
+composer install composer.json
 ```
 
 Database setup:
