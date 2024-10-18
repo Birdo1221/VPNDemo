@@ -1,0 +1,9 @@
+{
+    "name": "birdo/public",
+    "autoload": {
+        "psr-4": {
+            "Birdo\\Public\\": "src/"
+        }
+    },
+    "require": {}
+}
