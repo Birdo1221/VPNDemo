@@ -5,8 +5,8 @@ A PHP-based demo application for managing VPN subscriptions with payment integra
 This project serves as a demonstration of the core functionalities of a VPN subscription management system. There are plans to develop a fully featured version in the future with additional features.
 
 ## Demo Preview
-## **[Click here for a live demo](https://www.vpn.birdo.ovh)**  
-## **[vpn.birdo.ovh] serves differnt content then [www.vpn.birdo.ovh]**
+### **[Click here for a live demo](https://www.vpn.birdo.ovh)**  
+#### **[vpn.birdo.ovh] serves a different page then [www.vpn.birdo.ovh]**
 ![VPNDemo](https://github.com/user-attachments/assets/ea3a1973-7b98-4e29-91d1-6755ee696ea6)
 
 ## Table of Contents
