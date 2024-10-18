@@ -39,7 +39,7 @@ composer install
 Database setup:
 
 Create a MySQL database and import the necessary schema.
-```schema
+```mysql
 -- Database: vpndemo
 
 CREATE DATABASE IF NOT EXISTS vpndemo;
