@@ -6,7 +6,7 @@ This project serves as a demonstration of the core functionalities of a VPN subs
 
 ## Demo Preview
 ## **[Click here for a live demo](https://www.vpn.birdo.ovh)**  
-## **If redirected to vpn.birdo.ovh just add www.vpn.birdo.ovh to access the demo **
+## **vpn.birdo.ovh serves differnt content then www.vpn.birdo.ovh**
 ![VPNDemo](https://github.com/user-attachments/assets/ea3a1973-7b98-4e29-91d1-6755ee696ea6)
 
 ## Table of Contents
