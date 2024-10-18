@@ -4,6 +4,12 @@ A PHP-based demo application for managing VPN subscriptions with payment integra
 
 This project serves as a demonstration of the core functionalities of a VPN subscription management system. There are plans to develop a fully featured version in the future with additional features.
 
+## In The Future
+Integrate an OpenVPN Access Server, enabling users to connect to the VPN service seamlessly. Integration will allow for automated VPN management directly from the user dashboard. Additionally add WireGuard for its speed and simplicity. 
+
+Plus will provide users with more options for secure connectivity.
+To link VPN clients to users effectively, the database will be structured to store user data and their respective VPN configurations, ensuring a smooth connection experience tailored to each user.
+
 ## Demo Preview
 ### **[Click here for a live demo](https://www.vpn.birdo.ovh)**  
 #### **[vpn.birdo.ovh] serves a different page then [www.vpn.birdo.ovh]**
