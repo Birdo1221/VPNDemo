@@ -2,7 +2,12 @@
 
 A PHP-based demo application for managing VPN subscriptions with payment integration using PayPal and Stripe.
 
-This project serves as a demonstration of the core functionalities of a VPN subscription management system. There are plans to develop a fully featured version in the future, incorporating additional features and enhancements based on user feedback.
+This project serves as a demonstration of the core functionalities of a VPN subscription management system. There are plans to develop a fully featured version in the future with additional features.
+
+## Demo Preview
+## **[Click here for a live demo](https://www.vpn.birdo.ovh)**  
+## **If redirected to vpn.birdo.ovh just add www.vpn.birdo.ovh to access the demo **
+![VPNDemo](https://github.com/user-attachments/assets/ea3a1973-7b98-4e29-91d1-6755ee696ea6)
 
 ## Table of Contents
 
