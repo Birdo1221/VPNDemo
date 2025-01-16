@@ -101,7 +101,7 @@ This project demonstrates a VPN subscription management system.
 
 2. **Select Subscription Plan:**
    - After logging in, choose your desired subscription plan from the dashboard.
-   - 
+   
 3. **Payment Processing:**
    - Select your preferred payment method (PayPal or Stripe) and complete the payment process.
 
