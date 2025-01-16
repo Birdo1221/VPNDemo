@@ -1,16 +1,7 @@
 # PHP VPNDemo
 
 A PHP-based demo application for managing VPN subscriptions with integrated payment processing using PayPal and Stripe.
-This project demonstrates the core functionalities of a VPN subscription management system. Future plans include adding advanced features such as VPN server integration and user-specific VPN configurations.
-
-## Table of Contents
-- [Future Plans](#future-plans)
-- [Demo Preview](#demo-preview)
-- [Features](#features)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [License](#license)
+This project demonstrates a VPN subscription management system.
 
 ## Think that need implementing / doing IG
 - **OpenVPN and WireGuard Integration**: Automate VPN server management for seamless connectivity.
@@ -60,7 +51,6 @@ This project demonstrates the core functionalities of a VPN subscription managem
          created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
          updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
      );
-
      CREATE TABLE IF NOT EXISTS subscriptions (
          id INT AUTO_INCREMENT PRIMARY KEY,
          user_id INT NOT NULL,
@@ -70,7 +60,6 @@ This project demonstrates the core functionalities of a VPN subscription managem
          status ENUM('active', 'inactive') DEFAULT 'active',
          FOREIGN KEY (user_id) REFERENCES userbase(id) ON DELETE CASCADE
      );
-
      CREATE TABLE IF NOT EXISTS csrf_tokens (
          id INT AUTO_INCREMENT PRIMARY KEY,
          user_id INT NOT NULL,
@@ -112,7 +101,7 @@ This project demonstrates the core functionalities of a VPN subscription managem
 
 2. **Select Subscription Plan:**
    - After logging in, choose your desired subscription plan from the dashboard.
-
+   - 
 3. **Payment Processing:**
    - Select your preferred payment method (PayPal or Stripe) and complete the payment process.
 
