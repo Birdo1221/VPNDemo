@@ -16,6 +16,7 @@ This project demonstrates the core functionalities of a VPN subscription managem
 - **OpenVPN and WireGuard Integration**: Automate VPN server management for seamless connectivity.
 - **User-Specific Configurations**: Link user accounts to VPN clients for tailored connections.
 - **Enhanced Security**: Expand encryption options to provide users with secure and private browsing experiences.
+- **VPN Client**: Either a simple APK for android for a vpn or a windows / linux client for it.
 
 ## Demo Preview
 ### **[Live Demo](https://www.vpn.birdo.ovh)**  
