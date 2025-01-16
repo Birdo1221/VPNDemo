@@ -3,18 +3,19 @@
 A PHP-based demo application for managing VPN subscriptions with integrated payment processing using PayPal and Stripe.
 This project demonstrates a VPN subscription management system.
 
-## Think that need implementing / doing IG
-- **OpenVPN and WireGuard Integration**: Automate VPN server management for seamless connectivity.
-- **User-Specific Configurations**: Link user accounts to VPN clients for tailored connections.
-- **Enhanced Security**: Expand encryption options to provide users with secure and private browsing experiences.
-- **VPN Client**: Either a simple APK for android for a vpn or a windows / linux client for it.
-
 ## Demo Preview
 ### **[Live Demo](https://www.vpn.birdo.ovh)**  
 - **Note**: `vpn.birdo.ovh` serves a different page than `www.vpn.birdo.ovh`.
 
 ![VPNDemo Screenshot](https://github.com/user-attachments/assets/d848eb32-1c1a-40d4-9145-76c59a3cb0e6)
 
+
+## Think that need implementing / doing IG
+- **OpenVPN and WireGuard Integration**: Automate VPN server management for seamless connectivity.
+- **User-Specific Configurations**: Link user accounts to VPN clients for tailored connections.
+- **Enhanced Security**: Expand encryption options to provide users with secure and private browsing experiences.
+- **VPN Client**: Either a simple APK for android for a vpn or a windows / linux client for it.
+  
 ## Features
 - User authentication (login/logout)
 - Subscription plan management
