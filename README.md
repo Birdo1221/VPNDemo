@@ -1,35 +1,33 @@
 # PHP VPNDemo
-
-A PHP-based demo application for managing VPN subscriptions with payment integration using PayPal and Stripe.
-
-This project serves as a demonstration of the core functionalities of a VPN subscription management system. There are plans to develop a fully featured version in the future with additional features.
-
-## In The Future
-Integrate an OpenVPN Access Server, enabling users to connect to the VPN service seamlessly. Integration will allow for automated VPN management directly from the user dashboard. Additionally add WireGuard for its speed and simplicity. 
-
-Plus will provide users with more options for secure connectivity.
-To link VPN clients to users effectively, the database will be structured to store user data and their respective VPN configurations, ensuring a smooth connection experience tailored to each user.
-
-## Demo Preview
-### **[Click here for a live demo](https://www.vpn.birdo.ovh)**  
-#### **[vpn.birdo.ovh] serves a different page then [www.vpn.birdo.ovh]**
-![VPNDemo](https://github.com/user-attachments/assets/ea3a1973-7b98-4e29-91d1-6755ee696ea6)
+A PHP-based demo application for managing VPN subscriptions with integrated payment processing using PayPal and Stripe.
+This project demonstrates the core functionalities of a VPN subscription management system. Future plans include adding advanced features such as VPN server integration and user-specific VPN configurations.
 
 ## Table of Contents
-
+- [Future Plans](#future-plans)
+- [Demo Preview](#demo-preview)
 - [Features](#features)
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
 - [License](#license)
 
-## Features
+## Future Plans
+- **OpenVPN and WireGuard Integration**: Automate VPN server management for seamless connectivity.
+- **User-Specific Configurations**: Link user accounts to VPN clients for tailored connections.
+- **Enhanced Security**: Expand encryption options to provide users with secure and private browsing experiences.
 
+## Demo Preview
+### **[Live Demo](https://www.vpn.birdo.ovh)**  
+- **Note**: `vpn.birdo.ovh` serves a different page than `www.vpn.birdo.ovh`.
+- 
+![VPNDemo Screenshot](https://github.com/user-attachments/assets/ea3a1973-7b98-4e29-91d1-6755ee696ea6)
+
+## Features
 - User authentication (login/logout)
-- Subscription plans for VPN services
-- Payment processing through PayPal and Stripe
-- CSRF protection for secure form submissions
-- Responsive design for a better user experience
+- Subscription plan management
+- Payment integration with PayPal and Stripe
+- CSRF protection for secure transactions
+- Responsive and user-friendly design
 
 ## Installation
 
@@ -38,7 +36,6 @@ To link VPN clients to users effectively, the database will be structured to sto
    git clone https://github.com/Birdo1221/VPNDemo.git
    cd VPNDemo
 Set up the environment:
-
 Ensure you have a PHP server running (e.g., XAMPP, WAMP, or a web server with PHP support).
 Install Composer if not already installed: Get Composer.
 Install dependencies:
@@ -48,7 +45,6 @@ composer install composer.json
 ```
 
 Database setup:
-
 Create a MySQL database and import the necessary schema.
 ```mysql
 -- Database: vpndemo
