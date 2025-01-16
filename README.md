@@ -12,7 +12,7 @@ This project demonstrates the core functionalities of a VPN subscription managem
 - [Usage](#usage)
 - [License](#license)
 
-## Future Plans
+## Think that need implementing / doing IG
 - **OpenVPN and WireGuard Integration**: Automate VPN server management for seamless connectivity.
 - **User-Specific Configurations**: Link user accounts to VPN clients for tailored connections.
 - **Enhanced Security**: Expand encryption options to provide users with secure and private browsing experiences.
