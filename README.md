@@ -13,7 +13,7 @@ This project demonstrates a VPN subscription management system.
 ### **[Live Demo](https://www.vpn.birdo.ovh)**  
 - **Note**: `vpn.birdo.ovh` serves a different page than `www.vpn.birdo.ovh`.
 
-![VPNDemo Screenshot](https://github.com/user-attachments/assets/ea3a1973-7b98-4e29-91d1-6755ee696ea6)
+![VPNDemo Screenshot](https://github.com/user-attachments/assets/d848eb32-1c1a-40d4-9145-76c59a3cb0e6)
 
 ## Features
 - User authentication (login/logout)
